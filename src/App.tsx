@@ -62,7 +62,7 @@ const App = () => (
           </BrowserRouter>
         </SeatProvider>
       </AuthProvider>
-    </div>
+    </TooltipProvider>
   </QueryClientProvider>
 );
 
